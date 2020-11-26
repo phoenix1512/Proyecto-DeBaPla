@@ -1,0 +1,11 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto final de la clase de Desarrollo Basado en Plataformas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Aguirre Baeza, Victor Hugo Aguilar Parra, Sebastian Terrazas Sandoval, Angel Eidu Macias Saenz",
+  "license": "ISC"
+}
