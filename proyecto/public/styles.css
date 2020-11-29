@@ -5,6 +5,30 @@ body {
     color: aliceblue;
 }
 
+.navbar {
+    background-color: rgba(17, 17, 17, 0.1);
+}
+.nav-link {
+    color: inherit;
+    font-size: 1.6rem;
+}
+.nav-link:hover {
+    color: inherit;
+    font-weight: bold;
+}
+.active {
+    font-weight: 700;
+}
+
+/* index */
+.description {
+    margin: 3rem;
+    padding: 2rem;
+    font-size: 2.5rem;
+    background-color: rgba(17, 17, 17, 0.5);
+}
+
+/* team */
 .team-card {
     background-color: rgb(17, 17, 17);
     color: aliceblue;
