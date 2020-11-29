@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(17, 17, 17);
+    background-image: url("/assets/main-background.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+
+.team-card {
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+}
+.team-card:hover {
+    background-color: rgb(34, 34, 34);
+}
+
+.name {
+    font-size: 2rem;
+}
+.first-name {
+    font-weight: 600;
+}
+.profile-picture {
+    height: 80%;
+    width: 80%;
+    margin: 1rem;
+}
+.age {
+    font-size: 1.25rem;
+}
