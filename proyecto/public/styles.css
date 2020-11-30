@@ -56,27 +56,57 @@ body {
     background-color: rgb(17, 17, 17);
     color: aliceblue;
     padding: 2rem;
+    height: 675px;
+    width: 387px;
+    position: relative;
+    /* display: inline-flex;
+    align-items: flex-start; */
 }
 .team-card:hover {
     background-color: rgb(34, 34, 34);
     padding: 2rem 1rem;
     font-size: 1rem;
 }
+.team-card:hover .profile-picture-container {
+    top: 6rem;
+}
+.team-card:hover .profile-picture {
+    width: 286px;
+}
 
 .name {
     font-size: 1.8rem;
+    position: absolute;
+    top: 2rem;
+    right: 0;
+    left: 0;
 }
 .first-name {
     font-size: 2.1rem;
     font-weight: 600;
 }
+.profile-picture-container {
+    position: absolute;
+    top: 6.65rem;
+    right: 0;
+    left: 0;
+}
 .profile-picture {
-    height: 80%;
-    width: 80%;
+    /* height: 80%; */
+    /* width: 80%; */
     margin: 1rem;
+    width: 260px;
+    height: auto;
 }
 .age {
     font-size: 1.25rem;
+}
+.quick-info {
+    position: absolute;
+    top: 24.7rem;
+    right: 0;
+    left: 0;
+    margin: 0 2rem;
 }
 .modal-content {
     background-color: rgb(17, 17, 17);
