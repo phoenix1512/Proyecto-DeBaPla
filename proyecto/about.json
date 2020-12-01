@@ -1,6 +1,34 @@
+
 {
 
-    servidor:
+    "servidor": "celestial Resort",
+
+    "Equipo": [
+        {
+            "name":"Victor Hugo",
+            "lastName":"Aguilar Parra",
+            "description":"Estudiante de ingenieria de septimo semestre que trata de terminar la carrera para continuar adelante", 
+            "age":"21"
+        },
+        {
+            "name":"Alejandro",
+            "lastName":"Aguirre Baeza",
+            "description":"Estudiante de ingenieria fan de Marvel, Star Wars y Harry Potter", 
+            "age":"21"
+        },
+        {
+            "name":"Angel Eidu",
+            "lastName":"Macías Sáenz",
+            "description":"Estudiante de ingenieria que muestra una actitud calmada en medio del caos en el que se encuentra envuelto", 
+            "age":"21"
+        },
+        {
+            "name":"Sebastián",
+            "lastName":"Terrazas Sandoval",
+            "description":"Sebas: 'Les caigo en un ratito en lo que termino de comer'", 
+            "age":"21"
+        }
+    ]
 
 
 }
