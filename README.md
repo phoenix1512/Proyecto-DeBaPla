@@ -4,6 +4,9 @@ Desarrollo de servidor que muestra a los integrantes como parte de una empresa d
 
 
 Victor Hugo Aguilar Parra 320663  
+
 Alejando Aguirre Baeza 320646
+
 Angel Eidu Macias Saenz 320670
+
 Sebastian Terrazas Sandoval 320808
